@@ -96,7 +96,7 @@ nav {
 /* Particles JS */
 .tsparticles-canvas-el {
   position: absolute;
-  height: 40vh;
+  height: 35vh;
   width: 100vw;
   z-index: 0;
 }
