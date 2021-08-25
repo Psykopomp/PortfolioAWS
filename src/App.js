@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import DividerOne from "./components/DividerOne"
+import DividerOne from "./components/DividerOne";
 import DividerTwo from "./components/DividerTwo";
 import Work from "./components/Work";
 import Footer from "./components/Footer";

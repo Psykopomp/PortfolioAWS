@@ -20,11 +20,10 @@ const Header = () => {
                             loop />
                         </h5>
                         
-                        {/* Resume Button */}
-                        <a href="/JakeRodResume.pdf" class="btn btn-resume btn-default btn-light">
-                            {/* Add Link to Resume then delete this comment */}
+                        {/* Fix link */}
+                        {/* <a href="/JakeRodResume.pdf" class="btn btn-resume btn-default btn-light">
                             <b>View Resume</b>
-                        </a>    
+                        </a>     */}
                     </div>
                 </div>
             </div>
